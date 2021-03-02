@@ -1,4 +1,4 @@
-### Projects I've made on:
+### Projects I've made:
 
 - [File organizer](https://github.com/j0eTheRipper/clean)
 - [Hangman game](https://github.com/j0eTheRipper/hangman)
