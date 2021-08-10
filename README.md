@@ -1,5 +1,2 @@
-### Projects I've made:
-
-- [File organizer](https://github.com/j0eTheRipper/clean)
-- [Hangman game](https://github.com/j0eTheRipper/hangman)
-- [Smart Calculator](https://github.com/j0eTheRipper/smort-calculator)
+## BIO
+I'm Youssef Hammad, I'm a profissional data analyst, and I like to write code for fun.
