@@ -3,7 +3,7 @@ I'm Youssef Hammad, I'm a professional data analyst who likes to code for fun.
 
 ### Case Studies
 I've made a study about the differences between casual customers and annual members for a bike sharing company called cyclistic (it's an immaginary company).
-[check it out](https://github.com/j0eTheRipper/cyclistic_case_study).
+[check it out](https://github.com/j0eTheRipper/cyclistic-case-study).
 
 So far I've compleated one case study, it doesn't really show off my programming skills like the other projects I've made, but it does highlight my analytical skills.
 
